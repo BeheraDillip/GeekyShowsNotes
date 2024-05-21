@@ -27,3 +27,12 @@ sudo systemctl status certbot.timer
 ```sh
 sudo certbot renew --dry-run
 ```
+#cd /etc/nginx
+#ls
+#cd sites-available/
+#ls
+#sudo vi <Dominname>
+
+#cd  ../sites-enabled/
+#ls
+sudo vi <domin name
